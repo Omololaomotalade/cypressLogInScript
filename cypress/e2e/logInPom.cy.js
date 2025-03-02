@@ -6,6 +6,7 @@ export const FORGOTPASS ={
   phnNo :':nth-child(1) > .input-wrapper',
   continueBttn : 'button:contains("Continue")',
   validateSuccessText : 'h5:contains("Pin Reset Successfully")',
+  phoneNumber: '08140058257'
 
  }
 
