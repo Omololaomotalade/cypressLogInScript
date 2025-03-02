@@ -1,0 +1,8 @@
+{
+  "pageLoadTimeout": 40000,
+  "defaultCommandTimeout": 700000,
+  "baseUrl": "https://staging.kongapay.com/"
+}
+
+
+
