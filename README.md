@@ -1,7 +1,3 @@
-Great job publishing your test! Here's a sample `README.md` you can use or adapt for your Cypress login script repository:
-
----
-
 # Cypress Login Test (Positive Scenario)
 
 This project contains an automated test written in [Cypress](https://www.cypress.io/) to verify the login functionality of a web application using valid credentials.
